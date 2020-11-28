@@ -1,0 +1,23 @@
+{
+  "short_name": "PAD",
+  "name": "PAD Practica Final",
+  "description": "Práctica final de la asignatura de PAD",
+  "icons": [
+    {
+      "src": "./maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./maskable_icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#26AF31",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#317EFB"
+}
